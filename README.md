@@ -26,7 +26,7 @@ It simulates key user flows on the [SauceDemo](https://www.saucedemo.com) e-comm
 ### 1. Clone the repo
 
 ``bash
-git clone https://github.com/yourusername/cypress-saucedemo.git
+git clone https://github.com/ileinOriana/cypress-ecommerce
 cd cypress-saucedemo``
 
 ### 2. Install dependencies
